@@ -40,6 +40,7 @@ Tools and platforms for generating text, code, media, and structured content.
 - [Cohere](https://cohere.com/) — Platform for text generation, embeddings, and classification.
 - [Hugging Face Transformers](https://github.com/huggingface/transformers) — Library for running and fine-tuning language models.
 - [Replicate](https://replicate.com/) — Platform for running and deploying AI models via API.
+- [AI eBook Pro](https://aiebookpro.com/) — Generates complete long-form eBooks (outline, chapters, cover) and exports PDF, EPUB and DOCX.
 
 ## Transformation & Enrichment
 
